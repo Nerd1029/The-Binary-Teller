@@ -8,8 +8,8 @@ You can run The Binary Teller without installing Python by downloading the preco
 1. Download `MacExecutable` from this repository.
 2. Move the file to a convenient location (e.g., Desktop).
 3. Open Terminal, navigate to the file’s directory, and run:
-   chmod +x MacExecutable
-   ./MacExecutable
+    `chmod +x MacExecutable
+   ./MacExecutable`
 4. Note: macOS may show a warning: “App is from an unidentified developer”.
    - To bypass:
      - Go to System Settings → Privacy & Security.
